@@ -21,3 +21,22 @@ console.log(twoSum([1, 2, 3, 4, 5], 10)); // Output: []
 console.log(twoSum([1, 2, 3, 4, 5], 9)); // Output: [3, 4]
 console.log(twoSum([1, 2, 3, 4, 5], 8)); // Output: [2, 4]
 console.log(twoSum([1, 2, 3, 4, 5], 7)); // Output: [1, 4]
+
+// pattern name  = "Two Sum";
+// pattern description = "Given an array of integers, return indices of the two numbers such that they add up to a specific target.";
+// pattern difficulty = "Easy";
+// pattern tags = ["Array", "Hash Table"];
+// pattern code = "javascript";
+// pattern codeSnippet = twoSum.toString();
+// pattern example = {
+//     input: "nums = [2, 7, 11, 15], target = 9",
+//     output: "[0, 1]"
+// };
+// pattern example2 = {
+//     input: "nums = [3, 2, 4], target = 6",
+//     output: "[1, 2]"
+// };
+// pattern example3 = {
+//     input: "nums = [3, 3], target = 6",
+//     output: "[0, 1]"
+// };
